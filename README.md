@@ -1,4 +1,4 @@
-# SongPlaylist-2020-04-28
+# SongPlaylist
 
 ## Description
 Inspired by the CodeCademy project at the end of the section on ArrayLists called "Desert Island Playlist"
